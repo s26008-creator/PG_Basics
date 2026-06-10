@@ -5,3 +5,7 @@ facts["code"] = "fun"
 # キーで参照
 print(facts["code"])
 
+#バリューを追加
+facts["Bill"]="Gates"
+#キーで参照
+print(facts["Bill"])
